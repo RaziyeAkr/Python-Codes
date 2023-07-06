@@ -1,0 +1,11 @@
+Suppose you have the following dataset for a regression problem.
+Build a linear model for this dataset and predict the y column based on the x inputs. 
+Repeat the calculations manually for three iterations and finally get the equation of the line.
+You can use the numpy.random facility to initialize the weights. 
+To calculate the prediction error from the actual values, use the quadratic error and then the absolute error and draw both lines on the data.
+
+ 
+(quadratic error : (prediction-target)^2)
+
+
+(absolute error: |prediction-target|)
